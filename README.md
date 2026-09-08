@@ -1,115 +1,83 @@
 # 🔥 PHANTOM LOADER
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=500&color=F700FF&center=true&vCenter=true&width=600&height=80&lines=🔥+PHANTOM+LOADER+🔥">
+  <img src="gemini-image-2_Professional_graphic_design_3D_render_make_me_a_logo_for_my_game_guardian_lua_sc-0.jpg" width="400" alt="Phantom Loader Logo">
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3500&pause=1000&color=00FF88&center=true&vCenter=true&width=500&height=50&lines=⚡+GameGuardian+Script+Loader+⚡">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=500&color=F700FF&center=true&vCenter=true&width=500&height=70&lines=🔥+PHANTOM+LOADER+🔥">
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3500&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&height=50&lines=📦+Multi-Repo+Support">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=1000&color=00FF88&center=true&vCenter=true&width=400&height=50&lines=⚡+Script+Loader+for+GameGuardian">
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3500&pause=1000&color=FFD700&center=true&vCenter=true&width=500&height=50&lines=🚀+All+Scripts+UNLOCKED">
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&height=50&lines=👑+King+Rank+System">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=450&height=40&lines=📦+Multi-Repo+Support+•+👑+King+Rank+System">
 </p>
 
 ---
 
-## 🌈 RAINBOW TEXT
+## 📦 **Version:** `8.2.0`
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Rubik&size=45&duration=2000&pause=500&color=FF0000&center=true&vCenter=true&width=700&height=60&lines=🔥+PHANTOM+LOADER+🔥">
-</p>
+## 👑 **Developer:** `@H3X-ApexAutomation`
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Rubik&size=35&duration=2500&pause=500&color=FF7F00&center=true&vCenter=true&width=600&height=50&lines=🚗+Car+Parking+Multiplayer+Tools">
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Rubik&size=30&duration=3000&pause=500&color=FFFF00&center=true&vCenter=true&width=500&height=50&lines=👑+King+Rank+System">
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Rubik&size=30&duration=3500&pause=500&color=00FF00&center=true&vCenter=true&width=500&height=50&lines=⚡+Auto-Updates+•+No+Login">
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Rubik&size=30&duration=4000&pause=500&color=0000FF&center=true&vCenter=true&width=500&height=50&lines=📦+Multi-Repo+Support">
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Rubik&size=30&duration=4500&pause=500&color=4B0082&center=true&vCenter=true&width=500&height=50&lines=🔥+All+Scripts+UNLOCKED">
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Rubik&size=30&duration=5000&pause=500&color=9400D3&center=true&vCenter=true&width=500&height=50&lines=🔐+Developer+PIN:+1412">
-</p>
+## 📱 **Contact:** `@H3X_cpm`
 
 ---
 
-## 📦 VERSION & STATS
-
-<p align="center">
-  <a href="https://github.com/H3X-ApexAutomation/PhantomLoader">
-    <img src="https://img.shields.io/github/v/release/H3X-ApexAutomation/PhantomLoader?style=for-the-badge&color=ff6b6b&label=📦%20Version">
-  </a>
-  <a href="https://github.com/H3X-ApexAutomation/PhantomLoader">
-    <img src="https://img.shields.io/github/last-commit/H3X-ApexAutomation/PhantomLoader?style=for-the-badge&color=00ff88&label=🔄%20Last%20Update">
-  </a>
-  <a href="https://github.com/H3X-ApexAutomation/PhantomLoader">
-    <img src="https://img.shields.io/github/stars/H3X-ApexAutomation/PhantomLoader?style=for-the-badge&color=ffd700&label=⭐%20Stars">
-  </a>
-  <a href="https://github.com/H3X-ApexAutomation/PhantomLoader">
-    <img src="https://img.shields.io/github/forks/H3X-ApexAutomation/PhantomLoader?style=for-the-badge&color=ff6b6b&label=🍴%20Forks">
-  </a>
-  <a href="https://github.com/H3X-ApexAutomation/PhantomLoader">
-    <img src="https://img.shields.io/github/issues/H3X-ApexAutomation/PhantomLoader?style=for-the-badge&color=00ff88&label=🐛%20Issues">
-  </a>
-</p>
-
----
-
-## 🎮 GAMES SUPPORTED
+## 🎮 **Games Supported**
 
 ### 🚗 Car Parking Multiplayer 1
 
-| Feature | Status |
-|---------|--------|
-| 👑 **King Rank** | ✅ Available |
 
-### 🏎️ Car Parking Multiplayer 2
-
+### 🏎️ Car Parking Multiplayer 2  
 
 
 ---
 
-## 👑 King Rank System
-
-👑 **King Rank is available in CPM Tools!**
-
----
-
-## ✨ FEATURES
+## ✨ **Features**
 
 | Feature | Description |
 |---------|-------------|
-| 📦 | **Multi-Repo Support** - Load scripts from any GitHub repo |
-| 🔥 | **All Scripts Unlocked** - No paid restrictions |
-| 🚀 | **No Login Required** - Direct access |
-| 👑 | **King Rank System** - Activate King Rank features |
-| ⬆️ | **Auto-Update** - Automatically updates to latest version |
-| 📱 | **Toast Loading** - Clean toast notifications |
-| 🎯 | **CPM Tools** - King Rank available in CPM Tools |
-| 📂 | **Folder Browsing** - Browse scripts by folders |
-| 📩 | **Contact Developer** - Direct Telegram contact |
+| 📦 | Multi-Repo Support |
+| 🔥 | All Scripts Unlocked |
+| 🚀 | No Login Required |
+| 👑 | King Rank System |
+| ⬆️ | Auto-Update |
+| 📱 | Toast Loading |
+
 
 ---
 
-## 📥 HOW TO USE
+## 📱 **Contact Developer**
+
+**Telegram:** @H3X_cpm
+
+For: Bug reports • Feature requests • Support
+
+---
+
+## ⭐ **Support This Project**
+
+⭐ Star this repo on GitHub!
+
+---
+
+## ⚠️ **Disclaimer**
+
+This project is for educational purposes only. Use at your own risk.
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=500&color=FF6B6B&center=true&vCenter=true&width=450&height=40&lines=🔥+Made+with+❤️+by+Phantom+Team">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=500&color=9B59B6&center=true&vCenter=true&width=450&height=40&lines=👑+Developer:+@H3X-ApexAutomation">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=500&color=00FF88&center=true&vCenter=true&width=450&height=40&lines=⭐+Don't+Forget+To+Star+This+Repo!">
+</p>
