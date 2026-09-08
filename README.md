@@ -1,124 +1,88 @@
 <!-- ============================================ -->
-<!--  PHANTOM LOADER - TERMUX STYLE README        -->
+<!--  PHANTOM LOADER - GITHUB COMPATIBLE README   -->
 <!--  By: Phantom Team                           -->
 <!-- ============================================ -->
 
 <p align="center">
-  <pre>
-    ╔══════════════════════════════════════════════════════════╗
-    ║                                                          ║
-    ║   ██████╗ ██╗  ██╗ █████╗ ███╗   ██╗████████╗ ██████╗ ███╗   ███╗
-    ║   ██╔══██╗██║  ██║██╔══██╗████╗  ██║╚══██╔══╝██╔═══██╗████╗ ████║
-    ║   ██████╔╝███████║███████║██╔██╗ ██║   ██║   ██║   ██║██╔████╔██║
-    ║   ██╔═══╝ ██╔══██║██╔══██║██║╚██╗██║   ██║   ██║   ██║██║╚██╔╝██║
-    ║   ██║     ██║  ██║██║  ██║██║ ╚████║   ██║   ╚██████╔╝██║ ╚═╝ ██║
-    ║   ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝    ╚═════╝ ╚═╝     ╚═╝
-    ║                                                          ║
-    ║   ╔══════════════════════════════════════════════════════╗ ║
-    ║   ║  🔥  SCRIPT LOADER FOR GAMEGUARDIAN  🔥            ║ ║
-    ║   ╚══════════════════════════════════════════════════════╝ ║
-    ║                                                          ║
-    ║   ╔══════════════════════════════════════════════════════╗ ║
-    ║   ║  📦 VERSION: 8.2.0  📅 UPDATED: 2024              ║ ║
-    ║   ╚══════════════════════════════════════════════════════╝ ║
-    ║                                                          ║
-    ║   ╔══════════════════════════════════════════════════════╗ ║
-    ║   ║  👑 DEVELOPER: @H3X-ApexAutomation                  ║ ║
-    ║   ╚══════════════════════════════════════════════════════╝ ║
-    ║                                                          ║
-    ╚══════════════════════════════════════════════════════════╝
-  </pre>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=500&color=F700FF&center=true&vCenter=true&width=600&height=80&lines=🔥+PHANTOM+LOADER+🔥">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=500&color=000000&center=true&vCenter=true&width=600&height=80&lines=🔥+PHANTOM+LOADER+🔥">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3500&pause=1000&color=00FF88&center=true&vCenter=true&width=500&height=50&lines=⚡+GameGuardian+Script+Loader+⚡;📦+Multi-Repo+Support;🚀+All+Scripts+UNLOCKED">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3500&pause=1000&color=000000&center=true&vCenter=true&width=500&height=50&lines=⚡+GameGuardian+Script+Loader+⚡;📦+Multi-Repo+Support;🚀+All+Scripts+UNLOCKED">
+  </picture>
 </p>
 
 ---
 
-## 🎨 **Rainbow Gradient Text**
-
 <p align="center">
-  <font color="#FF0000">P</font>
-  <font color="#FF7F00">H</font>
-  <font color="#FFFF00">A</font>
-  <font color="#00FF00">N</font>
-  <font color="#0000FF">T</font>
-  <font color="#4B0082">O</font>
-  <font color="#9400D3">M</font>
-  <font color="#FF0000"> </font>
-  <font color="#FF7F00">L</font>
-  <font color="#FFFF00">O</font>
-  <font color="#00FF00">A</font>
-  <font color="#0000FF">D</font>
-  <font color="#4B0082">E</font>
-  <font color="#9400D3">R</font>
-</p>
-
-<p align="center">
-  <font color="#FFD700">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</font>
-</p>
-
-<p align="center">
-  <font color="#FF6B6B">🔥</font>
-  <font color="#FF9F43">🚀</font>
-  <font color="#FECA57">⚡</font>
-  <font color="#48DBFB">💎</font>
-  <font color="#FF9FF3">👑</font>
-  <font color="#54A0FF">🎯</font>
-  <font color="#5F27CD">📦</font>
-  <font color="#FF6B6B">🔥</font>
-  <font color="#FF9F43">🚀</font>
-  <font color="#FECA57">⚡</font>
-  <font color="#48DBFB">💎</font>
-  <font color="#FF9FF3">👑</font>
-  <font color="#54A0FF">🎯</font>
-  <font color="#5F27CD">📦</font>
-</p>
-
-<p align="center">
-  <font color="#FFD700">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</font>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
 </p>
 
 ---
 
-## 🎮 **GAMES SUPPORTED**
+## 🔥 PHANTOM LOADER
 
 <p align="center">
-  <font color="#FFD700">══════════════════════════════════════════════════════════</font>
+  <img src="https://readme-typing-svg.demolab.com?font=Rubik&size=60&duration=2000&pause=500&color=FF6B6B&center=true&vCenter=true&width=800&height=80&lines=🔥+PHANTOM+LOADER+🔥" alt="Phantom Loader">
 </p>
 
-### 🚗 **Car Parking Multiplayer 1**
 <p align="center">
-  <font color="#FF6B6B">──────────────────────────────────────────────────────────</font>
+  <img src="https://readme-typing-svg.demolab.com?font=Rubik&size=35&duration=2500&pause=1000&color=00FF88&center=true&vCenter=true&width=700&height=60&lines=🚗+Car+Parking+Multiplayer+Tools+🚗;👑+King+Rank+System;⚡+Auto-Updates+•+No+Login+Required" alt="Features">
 </p>
-
-| Feature | Status |
-|---------|--------|
-| 👑 **King Rank** | ✅ Available |
-
-### 🏎️ **Car Parking Multiplayer 2**
-<p align="center">
-  <font color="#00FF88">──────────────────────────────────────────────────────────</font>
-</p>
-
-| Feature | Status |
-|---------|--------|
-| 👑 **King Rank** | ✅ Available |
 
 ---
 
-## 👑 **King Rank System**
-
+<!-- ANIMATED DIVIDER -->
 <p align="center">
-  <font color="#FFD700">══════════════════════════════════════════════════════════</font>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-012a3c00-a447-11eb-9d1a-1bfb63b1cf8c.gif" width="100%">
 </p>
+
+---
+
+<!-- BADGES / STATS -->
+<p align="center">
+  <a href="https://github.com/H3X-ApexAutomation/PhantomLoader">
+    <img src="https://img.shields.io/github/v/release/H3X-ApexAutomation/PhantomLoader?style=for-the-badge&color=ff6b6b&label=📦%20Version" alt="Version">
+  </a>
+  <a href="https://github.com/H3X-ApexAutomation/PhantomLoader">
+    <img src="https://img.shields.io/github/last-commit/H3X-ApexAutomation/PhantomLoader?style=for-the-badge&color=00ff88&label=🔄%20Last%20Update" alt="Last Update">
+  </a>
+  <a href="https://github.com/H3X-ApexAutomation/PhantomLoader">
+    <img src="https://img.shields.io/github/stars/H3X-ApexAutomation/PhantomLoader?style=for-the-badge&color=ffd700&label=⭐%20Stars" alt="Stars">
+  </a>
+  <a href="https://github.com/H3X-ApexAutomation/PhantomLoader">
+    <img src="https://img.shields.io/github/forks/H3X-ApexAutomation/PhantomLoader?style=for-the-badge&color=ff6b6b&label=🍴%20Forks" alt="Forks">
+  </a>
+  <a href="https://github.com/H3X-ApexAutomation/PhantomLoader">
+    <img src="https://img.shields.io/github/issues/H3X-ApexAutomation/PhantomLoader?style=for-the-badge&color=00ff88&label=🐛%20Issues" alt="Issues">
+  </a>
+</p>
+
+---
+
+## 🎮 GAMES SUPPORTED
+
+### 🚗 Car Parking Multiplayer 1
+
+
+### 🏎️ Car Parking Multiplayer 2
+
+
+
+---
+
+## 👑 King Rank System
 
 👑 **King Rank is available in CPM Tools!**
 
 ---
 
-## ✨ **FEATURES**
-
-<p align="center">
-  <font color="#00FF88">══════════════════════════════════════════════════════════</font>
-</p>
+## ✨ FEATURES
 
 | Feature | Description |
 |---------|-------------|
@@ -134,8 +98,4 @@
 
 ---
 
-## 📥 **HOW TO USE**
-
-<p align="center">
-  <font color="#FF6B6B">══════════════════════════════════════════════════════════</font>
-</p>
+## 📥 HOW TO USE
