@@ -1,20 +1,34 @@
 <!-- ============================================ -->
-<!--  PHANTOM LOADER - GITHUB COMPATIBLE README   -->
+<!--  PHANTOM LOADER - ANIMATED RAINBOW README    -->
 <!--  By: Phantom Team                           -->
 <!-- ============================================ -->
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=500&color=F700FF&center=true&vCenter=true&width=600&height=80&lines=🔥+PHANTOM+LOADER+🔥">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=500&color=000000&center=true&vCenter=true&width=600&height=80&lines=🔥+PHANTOM+LOADER+🔥">
-  </picture>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&duration=1&pause=1&color=FF0000&center=true&vCenter=true&width=700&height=90&lines=🔥+PHANTOM+LOADER+🔥" alt="Phantom Loader">
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3500&pause=1000&color=00FF88&center=true&vCenter=true&width=500&height=50&lines=⚡+GameGuardian+Script+Loader+⚡;📦+Multi-Repo+Support;🚀+All+Scripts+UNLOCKED">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3500&pause=1000&color=000000&center=true&vCenter=true&width=500&height=50&lines=⚡+GameGuardian+Script+Loader+⚡;📦+Multi-Repo+Support;🚀+All+Scripts+UNLOCKED">
-  </picture>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1&pause=1&color=FF7F00&center=true&vCenter=true&width=600&height=60&lines=⚡+GameGuardian+Script+Loader+⚡" alt="Subtitle">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=1&pause=1&color=FFFF00&center=true&vCenter=true&width=550&height=50&lines=📦+Multi-Repo+Support" alt="Feature 1">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=1&pause=1&color=00FF00&center=true&vCenter=true&width=550&height=50&lines=🚀+All+Scripts+UNLOCKED" alt="Feature 2">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=1&pause=1&color=0000FF&center=true&vCenter=true&width=550&height=50&lines=👑+King+Rank+System" alt="Feature 3">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=1&pause=1&color=4B0082&center=true&vCenter=true&width=550&height=50&lines=🔄+Auto-Updates" alt="Feature 4">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=1&pause=1&color=9400D3&center=true&vCenter=true&width=550&height=50&lines=🔓+No+Login+Required" alt="Feature 5">
 </p>
 
 ---
@@ -25,42 +39,54 @@
 
 ---
 
-## 🔥 PHANTOM LOADER
+## 🎨 RAINBOW TITLE
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Rubik&size=60&duration=2000&pause=500&color=FF6B6B&center=true&vCenter=true&width=800&height=80&lines=🔥+PHANTOM+LOADER+🔥" alt="Phantom Loader">
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Rubik&size=35&duration=2500&pause=1000&color=00FF88&center=true&vCenter=true&width=700&height=60&lines=🚗+Car+Parking+Multiplayer+Tools+🚗;👑+King+Rank+System;⚡+Auto-Updates+•+No+Login+Required" alt="Features">
+  <img src="https://readme-typing-svg.demolab.com?font=Rubik&size=60&duration=1&pause=1&color=FF0000&center=true&vCenter=true&width=800&height=80&lines=🔥" alt="Red">
+  <img src="https://readme-typing-svg.demolab.com?font=Rubik&size=60&duration=1&pause=1&color=FF7F00&center=true&vCenter=true&width=800&height=80&lines=🌈" alt="Orange">
+  <img src="https://readme-typing-svg.demolab.com?font=Rubik&size=60&duration=1&pause=1&color=FFFF00&center=true&vCenter=true&width=800&height=80&lines=⭐" alt="Yellow">
+  <img src="https://readme-typing-svg.demolab.com?font=Rubik&size=60&duration=1&pause=1&color=00FF00&center=true&vCenter=true&width=800&height=80&lines=💚" alt="Green">
+  <img src="https://readme-typing-svg.demolab.com?font=Rubik&size=60&duration=1&pause=1&color=0000FF&center=true&vCenter=true&width=800&height=80&lines=💙" alt="Blue">
+  <img src="https://readme-typing-svg.demolab.com?font=Rubik&size=60&duration=1&pause=1&color=4B0082&center=true&vCenter=true&width=800&height=80&lines=💜" alt="Indigo">
+  <img src="https://readme-typing-svg.demolab.com?font=Rubik&size=60&duration=1&pause=1&color=9400D3&center=true&vCenter=true&width=800&height=80&lines=🔮" alt="Violet">
 </p>
 
 ---
 
-<!-- ANIMATED DIVIDER -->
+## 🌈 RAINBOW TEXT - PHANTOM LOADER
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Rubik&size=50&duration=2000&pause=500&color=FF0000&center=true&vCenter=true&width=800&height=70&lines=🔥+PHANTOM+LOADER+🔥" alt="Red">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Rubik&size=40&duration=2500&pause=500&color=FF7F00&center=true&vCenter=true&width=700&height=60&lines=🚗+Car+Parking+Multiplayer+Tools" alt="Orange">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Rubik&size=35&duration=3000&pause=500&color=FFFF00&center=true&vCenter=true&width=600&height=50&lines=👑+King+Rank+System" alt="Yellow">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Rubik&size=30&duration=3500&pause=500&color=00FF00&center=true&vCenter=true&width=550&height=50&lines=⚡+Auto-Updates+•+No+Login" alt="Green">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Rubik&size=30&duration=4000&pause=500&color=0000FF&center=true&vCenter=true&width=550&height=50&lines=📦+Multi-Repo+Support" alt="Blue">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Rubik&size=30&duration=4500&pause=500&color=4B0082&center=true&vCenter=true&width=550&height=50&lines=🔥+All+Scripts+UNLOCKED" alt="Indigo">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Rubik&size=30&duration=5000&pause=500&color=9400D3&center=true&vCenter=true&width=550&height=50&lines=🔐+Developer+PIN:+1412" alt="Violet">
+</p>
+
+---
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-012a3c00-a447-11eb-9d1a-1bfb63b1cf8c.gif" width="100%">
-</p>
-
----
-
-<!-- BADGES / STATS -->
-<p align="center">
-  <a href="https://github.com/H3X-ApexAutomation/PhantomLoader">
-    <img src="https://img.shields.io/github/v/release/H3X-ApexAutomation/PhantomLoader?style=for-the-badge&color=ff6b6b&label=📦%20Version" alt="Version">
-  </a>
-  <a href="https://github.com/H3X-ApexAutomation/PhantomLoader">
-    <img src="https://img.shields.io/github/last-commit/H3X-ApexAutomation/PhantomLoader?style=for-the-badge&color=00ff88&label=🔄%20Last%20Update" alt="Last Update">
-  </a>
-  <a href="https://github.com/H3X-ApexAutomation/PhantomLoader">
-    <img src="https://img.shields.io/github/stars/H3X-ApexAutomation/PhantomLoader?style=for-the-badge&color=ffd700&label=⭐%20Stars" alt="Stars">
-  </a>
-  <a href="https://github.com/H3X-ApexAutomation/PhantomLoader">
-    <img src="https://img.shields.io/github/forks/H3X-ApexAutomation/PhantomLoader?style=for-the-badge&color=ff6b6b&label=🍴%20Forks" alt="Forks">
-  </a>
-  <a href="https://github.com/H3X-ApexAutomation/PhantomLoader">
-    <img src="https://img.shields.io/github/issues/H3X-ApexAutomation/PhantomLoader?style=for-the-badge&color=00ff88&label=🐛%20Issues" alt="Issues">
-  </a>
 </p>
 
 ---
@@ -68,6 +94,7 @@
 ## 🎮 GAMES SUPPORTED
 
 ### 🚗 Car Parking Multiplayer 1
+
 
 
 ### 🏎️ Car Parking Multiplayer 2
@@ -78,11 +105,25 @@
 
 ## 👑 King Rank System
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Rubik&size=35&duration=2000&pause=500&color=FFD700&center=true&vCenter=true&width=500&height=50&lines=👑+KING+RANK+SYSTEM" alt="King Rank">
+</p>
+
 👑 **King Rank is available in CPM Tools!**
 
 ---
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-012a3c00-a447-11eb-9d1a-1bfb63b1cf8c.gif" width="100%">
+</p>
+
+---
+
 ## ✨ FEATURES
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Rubik&size=30&duration=2000&pause=500&color=00FF88&center=true&vCenter=true&width=500&height=50&lines=⚡+ALL+FEATURES+UNLOCKED" alt="Features">
+</p>
 
 | Feature | Description |
 |---------|-------------|
@@ -98,4 +139,14 @@
 
 ---
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-012a3c00-a447-11eb-9d1a-1bfb63b1cf8c.gif" width="100%">
+</p>
+
+---
+
 ## 📥 HOW TO USE
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Rubik&size=25&duration=2000&pause=500&color=FF6B6B&center=true&vCenter=true&width=400&height=40&lines=🚀+DOWNLOAD+AND+RUN" alt="How to Use">
+</p>
